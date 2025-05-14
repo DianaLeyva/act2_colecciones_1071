@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false, // Oculta el banner de Debug
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Carlos Esteban Melgar Oropeza a.22308051281079'),
+          title: Text(''),
           backgroundColor: appBarColor, // Color personalizado
           centerTitle: true,
         ),
